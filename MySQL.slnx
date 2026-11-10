@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="01-Conexion/01-Conexion.csproj" />
+  <Project Path="02-Query/02-Query.csproj" />
+</Solution>
