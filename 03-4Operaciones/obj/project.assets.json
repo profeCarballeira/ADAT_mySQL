@@ -553,19 +553,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luis\\.nuget\\packages\\": {}
+    "C:\\Users\\Carballeira\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luis\\Documents\\ADAT\\MySQL\\03-4Operaciones\\03-4Operaciones.csproj",
+      "projectUniqueName": "C:\\Users\\Carballeira\\Desktop\\borra\\ADAT_mySQL\\03-4Operaciones\\03-4Operaciones.csproj",
       "projectName": "03-4Operaciones",
-      "projectPath": "C:\\Users\\luis\\Documents\\ADAT\\MySQL\\03-4Operaciones\\03-4Operaciones.csproj",
-      "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luis\\Documents\\ADAT\\MySQL\\03-4Operaciones\\obj\\",
+      "projectPath": "C:\\Users\\Carballeira\\Desktop\\borra\\ADAT_mySQL\\03-4Operaciones\\03-4Operaciones.csproj",
+      "packagesPath": "C:\\Users\\Carballeira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Carballeira\\Desktop\\borra\\ADAT_mySQL\\03-4Operaciones\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Carballeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -620,7 +625,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
