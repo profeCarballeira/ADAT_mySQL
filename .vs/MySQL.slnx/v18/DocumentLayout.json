@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\luis\\Documents\\ADAT\\MySQL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAC53E28-6AE2-4376-B04B-E3DFAB6AC8DE}|02-Query\\02-Query.csproj|c:\\users\\luis\\documents\\adat\\mysql\\02-query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAC53E28-6AE2-4376-B04B-E3DFAB6AC8DE}|02-Query\\02-Query.csproj|solutionrelative:02-query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90643C66-F6C3-5C5C-8031-C062399DFECC}|02-Query\\02-Query.csproj|c:\\users\\luis\\documents\\adat\\mysql\\02-query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90643C66-F6C3-5C5C-8031-C062399DFECC}|02-Query\\02-Query.csproj|solutionrelative:02-query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BC723C-DA23-49A5-968A-0ACF608CA051}|03-4Operaciones\\03-4Operaciones.csproj|c:\\users\\luis\\documents\\adat\\mysql\\03-4operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BC723C-DA23-49A5-968A-0ACF608CA051}|03-4Operaciones\\03-4Operaciones.csproj|solutionrelative:03-4operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +28,22 @@
               "RelativeDocumentMoniker": "02-Query\\Program.cs",
               "ToolTip": "C:\\Users\\luis\\Documents\\ADAT\\MySQL\\02-Query\\Program.cs",
               "RelativeToolTip": "02-Query\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T12:27:48.1Z",
+              "WhenOpened": "2026-11-17T12:38:32.892Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luis\\Documents\\ADAT\\MySQL\\03-4Operaciones\\Program.cs",
+              "RelativeDocumentMoniker": "03-4Operaciones\\Program.cs",
+              "ToolTip": "C:\\Users\\luis\\Documents\\ADAT\\MySQL\\03-4Operaciones\\Program.cs",
+              "RelativeToolTip": "03-4Operaciones\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:35:21.262Z"
             }
           ]
         }

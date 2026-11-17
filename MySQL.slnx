@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="01-Conexion/01-Conexion.csproj" />
   <Project Path="02-Query/02-Query.csproj" />
+  <Project Path="03-4Operaciones/03-4Operaciones.csproj" Id="d3bc723c-da23-49a5-968a-0acf608ca051" />
 </Solution>

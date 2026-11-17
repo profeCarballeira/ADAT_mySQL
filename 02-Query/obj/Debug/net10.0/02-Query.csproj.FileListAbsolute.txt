@@ -34,3 +34,4 @@ C:\Users\luis\Documents\ADAT\MySQL\02-Query\obj\Debug\net10.0\refint\02-Query.dl
 C:\Users\luis\Documents\ADAT\MySQL\02-Query\obj\Debug\net10.0\02-Query.pdb
 C:\Users\luis\Documents\ADAT\MySQL\02-Query\obj\Debug\net10.0\02-Query.genruntimeconfig.cache
 C:\Users\luis\Documents\ADAT\MySQL\02-Query\obj\Debug\net10.0\ref\02-Query.dll
+C:\Users\luis\Documents\ADAT\MySQL\02-Query\obj\Debug\net10.0\02-Query.sourcelink.json

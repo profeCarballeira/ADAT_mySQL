@@ -18,8 +18,15 @@ class Program
 
                 //procesar
                 //nombre y precio de todos los productos
-                string query = @"SELECT ProductName, Price 
-                            FROM products;";
+                //string query = @"SELECT ProductName, Price 
+                //            FROM products;";
+                //hacer consulta todos los productos de "Condiments"
+                string query = @"
+                    SELECT p.ProductName, p.Price
+                    FROM products p
+                    JOIN categories c ON p.CategoryID = c.CategoryID
+                    WHERE c.CategoryName = 'Condiments';
+                    ";
 
                 //lanzamos la consulta
                 using (MySqlCommand cmd = new MySqlCommand(query, conn)) {
@@ -29,7 +36,7 @@ class Program
                     }
                 }
 
-                //consulta con todos los productos de "Condiments"
+                
 
 
             } //al hacer using ==> cieere automático
