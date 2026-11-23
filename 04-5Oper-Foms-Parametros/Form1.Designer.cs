@@ -104,6 +104,7 @@
             // 
             txtBirthDate.Location = new Point(638, 92);
             txtBirthDate.Name = "txtBirthDate";
+            txtBirthDate.PlaceholderText = "dd/mm/aa";
             txtBirthDate.Size = new Size(154, 31);
             txtBirthDate.TabIndex = 7;
             // 
@@ -115,6 +116,7 @@
             btnInsertar.TabIndex = 8;
             btnInsertar.Text = "Insertar";
             btnInsertar.UseVisualStyleBackColor = true;
+            btnInsertar.Click += btnInsertar_Click;
             // 
             // btnConsultar
             // 
@@ -124,6 +126,7 @@
             btnConsultar.TabIndex = 9;
             btnConsultar.Text = "Consultar";
             btnConsultar.UseVisualStyleBackColor = true;
+            btnConsultar.Click += btnConsultar_Click;
             // 
             // btnModificar
             // 
@@ -133,6 +136,7 @@
             btnModificar.TabIndex = 10;
             btnModificar.Text = "Modificar";
             btnModificar.UseVisualStyleBackColor = true;
+            btnModificar.Click += btnModificar_Click;
             // 
             // btnBorrar
             // 
@@ -142,6 +146,7 @@
             btnBorrar.TabIndex = 11;
             btnBorrar.Text = "Borrar";
             btnBorrar.UseVisualStyleBackColor = true;
+            btnBorrar.Click += btnBorrar_Click;
             // 
             // lstResultados
             // 
