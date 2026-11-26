@@ -1,6 +1,7 @@
 ﻿# CRUD BASE EN UN DataGridView con modelo MVC
 1. Interfaz: insertar controles y poner nombre y text
 1. Crear carpetas Models, Views y Controllers
+1. Arrastrar el formulario (Form1.cs) a la carpeta Views
 1. Crear una clase que mapee la tabla Employees (get, set) en Models
 1. En el controller (crear EmployeeController.cs) incluir el model (using)
 1. Instalar (NuGet+using) MySql.Data.MySqlClient
