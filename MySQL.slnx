@@ -3,4 +3,5 @@
   <Project Path="02-Query/02-Query.csproj" />
   <Project Path="03-4Operaciones/03-4Operaciones.csproj" Id="d3bc723c-da23-49a5-968a-0acf608ca051" />
   <Project Path="04-5Oper-Foms-Parametros/04-5Oper-Foms-Parametros.csproj" Id="82b1b95f-6f19-44a7-81ab-c6ad788bf786" />
+  <Project Path="05-CRUD-MVC-base/05-CRUD-MVC-base.csproj" Id="95a6930e-8a42-4ba0-adae-a01e932c6c9a" />
 </Solution>
